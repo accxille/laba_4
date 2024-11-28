@@ -1,2 +1,4 @@
 git add README.md
-
+cd
+git init
+git remote add origin new-repository
