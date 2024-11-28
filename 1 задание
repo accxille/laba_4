@@ -3,3 +3,5 @@ cd
 git init
 git remote add origin new-repository
 git branch new-branch
+git branch master
+
