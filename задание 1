@@ -43,7 +43,7 @@ class Car:
  # Команда остановиться:
    pass
 myCar1 = Car()
-myCar.color1 = 'pink'  # красим в красный цвет
+myCar.color1 = 'pink'  # красим в розовый цвет
 myCar.fuel1 = 60    # заливаем топливо
 myCar.wheels1 = 4 # добавляем колеса
 myCar.classification1 = 'ordinary'# определяем вид 
